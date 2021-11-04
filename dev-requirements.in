@@ -1,0 +1,16 @@
+# lint
+black
+flake8 >= 3.8.0
+flake8-logging-format
+flynt
+isort >= 5
+mypy
+yamllint
+
+# test
+coverage
+
+# mock
+responses
+
+# mypy

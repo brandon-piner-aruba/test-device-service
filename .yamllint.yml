@@ -1,0 +1,12 @@
+extends: default
+
+rules:
+  line-length:
+    max: 100
+  document-start: disable
+  indentation:
+    # Sequences are usually not indented in the Kubernetes world
+    indent-sequences: false
+
+ignore: |
+  /.github/

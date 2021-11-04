@@ -1,0 +1,16 @@
+{
+    "tests": [
+        {
+            "type": "ping",
+            "target": "www.google.com"
+        },
+        {
+            "type": "ping",
+            "target": "www.facebook.com"
+        },
+        {
+            "type": "traceroute",
+            "target": "www.google.com"
+        }
+    ]
+}

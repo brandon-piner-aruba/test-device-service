@@ -1,0 +1,4 @@
+# From official PyPI (https://pypi.org/)
+# ======================================
+fastapi~=0.68.0
+uvicorn>=0.13

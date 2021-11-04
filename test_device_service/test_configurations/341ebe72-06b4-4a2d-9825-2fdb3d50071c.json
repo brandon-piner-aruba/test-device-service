@@ -1,0 +1,8 @@
+{
+    "tests": [
+        {
+            "type": "ping",
+            "target": "www.google.com"
+        }
+    ]
+}
