@@ -104,5 +104,5 @@ You may also ignore the device ID and always return the same test configuration 
 
 # Bonus
 
-1. Use the device ID to serve each device its specific test result
+1. Use the device ID to serve each device its specific test configuration
 2. Store test results (save to file or database like sqlite)
