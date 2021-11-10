@@ -53,7 +53,7 @@ Antoher device with ID `341ebe72-06b4-4a2d-9825-2fdb3d50071c` also asks for its 
 }
 ```
 
-Once the devices have run the tests they will upload the test results to our API server. The test results are uploaded individually. That means the first example device will make 3 POSTs to our API server. have the following JSON structure:
+Once the devices have run the tests they will upload the test results to our API server. The test results are uploaded individually. That means the first example device will make 3 POSTs to our API server. The POSTs will have the following JSON structure:
 
 ```json
 {
