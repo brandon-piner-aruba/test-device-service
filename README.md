@@ -25,6 +25,11 @@ To run the server:
 uvicorn --host=0.0.0.0 --port=8080 --reload test_device_service.server:app
 ```
 
+There are docs to see the API. This can be viewed at:
+```
+http://localhost:8080/docs
+```
+
 ### Lint & Test Code
 
 The code can be formatted, tested and lint checked by exploring some of the commands in the Justfile
