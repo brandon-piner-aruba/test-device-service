@@ -2,7 +2,7 @@
 
 We are excited for you to tackle our internship test. We have provided a few files to help you get started. There is **no requirement** to use our template and you are welcome to add or delete anything you want.
 
-We will be assessing at your ability to comprehend the problem statement by looking at the solution you submit. We are also going to be assessing the quality of your code and project structure.
+We will be assessing your ability to comprehend the problem statement by looking at the solution you submit. We are also going to be assessing the quality of your code and project structure.
 
 # Background
 
@@ -19,7 +19,7 @@ Once it has its test configuration, the device will run through each test and st
 
 ## Example
 
-Device with ID `5eb48fc2-e076-4ec2-9c32-800bd32caf12` asks our API server for its test configuration. The result of a GET from our API server will have the JSON response:
+Device with ID `5eb48fc2-e076-4ec2-9c32-800bd32caf12` asks our API server for its test configuration. The result of a GET request from our API server will have the JSON response:
 
 ```json
 {
@@ -40,7 +40,7 @@ Device with ID `5eb48fc2-e076-4ec2-9c32-800bd32caf12` asks our API server for it
 }
 ```
 
-Antoher device with ID `341ebe72-06b4-4a2d-9825-2fdb3d50071c` also asks for its test configuration and gets the following response:
+Another device with ID `341ebe72-06b4-4a2d-9825-2fdb3d50071c` also asks for its test configuration and gets the following response:
 
 ```json
 {
